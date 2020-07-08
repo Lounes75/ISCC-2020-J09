@@ -1,5 +1,4 @@
 <html>
-<header>
  
 <form method="POST" action="securite.php">
  <div>
